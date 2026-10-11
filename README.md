@@ -1,15 +1,19 @@
 
 <div align="center">
 
-# Hey, i'm giovanni 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:100B16,50:9D174D,100:FF3889&section=header&text=hey,%20i'm%20giovanni&fontColor=FFFFFF&fontSize=34&fontAlignY=38&animation=fadeIn" width="100%" alt="Giovanni header" />
 
-**full stack developer / DevOps** · I'm just doing my own thing.
+### Full Stack Developer · DevOps
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=8B5CF6&center=true&vCenter=true&width=440&lines=code%2C+coffee+%26+side+projects;always+learning+something+new" alt="Typing animation" />
+*just building stuff and doing my own thing.*
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-self-th6zz86y75.vercel.app/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=FF3889&center=true&vCenter=true&width=460&lines=building+things+for+the+web;sometimes+frontend%2C+sometimes+backend;probably+fixing+something+i+broke" alt="Typing animation" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF3889?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-self-th6zz86y75.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiovanniJMDev)
 
 </div>
@@ -18,10 +22,10 @@
 
 ### A little about me
 
-- I enjoy building web apps, from frontend to backend
-- I like clean interfaces and good user experiences
-- I exploring cloud, infrastructure & new technologies
-- Probably working on another side project
+- Building solutions across the stack, without overcomplicating things
+- I like clean interfaces, solid architecture, and things that just work
+- Into cloud, infrastructure, and automation
+- Always have a project in mind
 
 ### Tech stack
 
@@ -31,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=react,vite,ts,js,tailwind,html,css,figma,threejs&theme=dark" alt="Frontend stack" />
 </p>
 
-**backend & databases**
+**Backend & databases**
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,dynamodb&theme=dark" alt="Backend stack" />
@@ -40,15 +44,19 @@
 **Cloud & tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode&theme=dark" alt="Tools and cloud" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode&theme=dark" alt="Cloud and tools" />
 </p>
 
 ---
 
 <div align="center">
 
-**Thanks for visiting!** 🌱
+*anyway, thanks for stopping by.*
 
-<sub>made with ☕ and a little bit of CSS</sub>
+<sub>probably should be coding rn</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:100B16,50:9D174D,100:FF3889" width="100%" alt="Footer" />
 
 </div>
